@@ -83,6 +83,7 @@ En esta gráfica, la tensión v2 se adelanta a la tensión v1 con un ángulo de 
 
 8.- CRONOGRAMA:
 
+![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/Cronograma.png)
  
 9.- BIBLIOGRAFIA
  
