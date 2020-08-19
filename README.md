@@ -58,7 +58,7 @@ En esta gráfica, la tensión v2 se adelanta a la tensión v1 con un ángulo de 
 
 4.- DIAGRAMAS:
 
-
+![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/dig7.png)
 
 5.- LISTA DE COMPONENTES:
 
