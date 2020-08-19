@@ -90,4 +90,46 @@ En esta gráfica, la tensión v2 se adelanta a la tensión v1 con un ángulo de 
 
  10.-ANEXOS:
  
+ Analisis de Rsultados:
  
+ Implemente el circuito que se representa a continuación:
+ 
+ ![]()
+ 
+ - Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 KHz.
+ - Conecte el osciloscopio al resistor de carga Rl. Observe la señal que aparece en el osciloscopio.
+ 
+ ![]()
+ 
+ - Responda las sisguientes preguntas:
+ ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+ 
+Nosotros ubicamos la señal a 1 [V] para cada cuadro, al haber hecho una relacion co  10 [V] y obtener un resultado de 3.45 [V] en nuestro osciloscopio, el valor de voltaje en 20 Vpp en el osciloscopio es 6.90 [V] que representa alrededor de 6.9 cuadros.
+
+¿En que valor esta posicionada la perilla VOLTS/DIV?
+
+1 [Volts/Div]
+
+¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+
+¿En que valor esta posicionada la perilla TIME/DIV?
+
+0.2 [Time/Div]
+-¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+Amplitud del voltaje: 6.9 [V]
+Periodo: 770 [uS]
+
+- Determine la frecuencia natural [Hz] y la frecuencia angular [rad/s] de la señal de salida:
+f: 1250 [Hz] -> 2500 [Hz]
+w: 2πf= 2500π [rad/s]  -> 5000π [rad/s]
+
+-Co el multímetro mida el voltaje en Rl: 2.43 [V]  ->  4.87 [V]
+-Compare el voltaje en el punto anterior y el obtenido con el multímetro digital.
+
+¿Coinciden?
+
+No coinciden.
+
+¿Por qué?
+ Porque en primer lugar el valor delmultimetro es un valor eficaz Vrms el cual es el voltaje del osciloscopio dividido para la raiz de 2.
