@@ -79,6 +79,8 @@ En esta gráfica, la tensión v2 se adelanta a la tensión v1 con un ángulo de 
 
 -Es necesario identificar las unidades para un correcto análisis, puesto que una alteración en las magnitudes puede perjudicar el significado gráfico de la senoide.
 
+-Es factible realizar una relación en la practica, puesto que el simulador nos permite generar valores que pueden ser teoricos.
+
 8.- CRONOGRAMA:
 
  
@@ -94,12 +96,12 @@ En esta gráfica, la tensión v2 se adelanta a la tensión v1 con un ángulo de 
  
  Implemente el circuito que se representa a continuación:
  
- ![]()
+ ![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/img.1.png)
  
  - Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 KHz.
  - Conecte el osciloscopio al resistor de carga Rl. Observe la señal que aparece en el osciloscopio.
  
- ![]()
+ ![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/simulaci%C3%B3n.1.png)
  
  - Responda las sisguientes preguntas:
  ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
@@ -112,20 +114,33 @@ Nosotros ubicamos la señal a 1 [V] para cada cuadro, al haber hecho una relacio
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
+Al estar nuestra perrilla de Time/Div en 0.2 esta abarcara 3.3 cuadros para un ciclo en la señal de salida.
+
+![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/Ciclo%20por%20cuadro.png)
 
 ¿En que valor esta posicionada la perilla TIME/DIV?
 
 0.2 [Time/Div]
+
 -¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
 Amplitud del voltaje: 6.9 [V]
-Periodo: 770 [uS]
+
+Periodo: 665 [uS]
+
+![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/periodo.png)
 
 - Determine la frecuencia natural [Hz] y la frecuencia angular [rad/s] de la señal de salida:
+
 f: 1250 [Hz] -> 2500 [Hz]
+
 w: 2πf= 2500π [rad/s]  -> 5000π [rad/s]
 
--Co el multímetro mida el voltaje en Rl: 2.43 [V]  ->  4.87 [V]
+-Con el multímetro mida el voltaje en Rl: 2.43 [V]  ->  4.87 [V]
+
 -Compare el voltaje en el punto anterior y el obtenido con el multímetro digital.
+
+![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/Sim.general.png)
 
 ¿Coinciden?
 
